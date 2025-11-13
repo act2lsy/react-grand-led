@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/act2lsy/react-grand-led/static/css/main.5fddec70.css",
+    "main.js": "/act2lsy/react-grand-led/static/js/main.969dfe1d.js",
+    "static/js/453.0d3c0707.chunk.js": "/act2lsy/react-grand-led/static/js/453.0d3c0707.chunk.js",
+    "index.html": "/act2lsy/react-grand-led/index.html",
+    "main.5fddec70.css.map": "/act2lsy/react-grand-led/static/css/main.5fddec70.css.map",
+    "main.969dfe1d.js.map": "/act2lsy/react-grand-led/static/js/main.969dfe1d.js.map",
+    "453.0d3c0707.chunk.js.map": "/act2lsy/react-grand-led/static/js/453.0d3c0707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fddec70.css",
+    "static/js/main.969dfe1d.js"
+  ]
+}
