@@ -31,6 +31,11 @@ function App() {
   };
 
   const Toggle = () => {
+    // if (document.fullscreenElement) {
+    //   document.exitFullscreen();
+    // } else {
+    //   document.documentElement.requestFullscreen();
+    // }
     setToggle(!toggle);
   };
   const handleChange = (event) => {
