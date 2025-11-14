@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-grand-led/static/css/main.c4b57fd9.css",
-    "main.js": "/react-grand-led/static/js/main.4946e4a2.js",
+    "main.css": "/react-grand-led/static/css/main.dfd70d79.css",
+    "main.js": "/react-grand-led/static/js/main.e623b273.js",
     "static/js/453.0d3c0707.chunk.js": "/react-grand-led/static/js/453.0d3c0707.chunk.js",
     "index.html": "/react-grand-led/index.html",
-    "main.c4b57fd9.css.map": "/react-grand-led/static/css/main.c4b57fd9.css.map",
-    "main.4946e4a2.js.map": "/react-grand-led/static/js/main.4946e4a2.js.map",
+    "main.dfd70d79.css.map": "/react-grand-led/static/css/main.dfd70d79.css.map",
+    "main.e623b273.js.map": "/react-grand-led/static/js/main.e623b273.js.map",
     "453.0d3c0707.chunk.js.map": "/react-grand-led/static/js/453.0d3c0707.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4b57fd9.css",
-    "static/js/main.4946e4a2.js"
+    "static/css/main.dfd70d79.css",
+    "static/js/main.e623b273.js"
   ]
 }
